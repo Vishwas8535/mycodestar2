@@ -6,7 +6,7 @@ AWS Lambda and Amazon API Gateway.
 My laptop configurations
 What's Here
 -----------
-
+sophisticated software platforms
 This sample includes:
 
 * README.md - this file
